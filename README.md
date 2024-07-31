@@ -1,5 +1,18 @@
 ## Hi there 👋
+Kaviyaraj R - Augmented Reality Researcher
+I'm a researcher specializing in Augmented Reality (AR) at the Computer Science and Engineering department of SRM Institute of Science and Technology (SRMIST).
 
+My research interests focus on:
+
+AR applications for education and training
+AR for industrial design and maintenance
+AR for user interfaces and interaction
+I'm proficient in various programming languages and tools relevant to AR development.
+
+Connect with me:
+
+LinkedIn https://in.linkedin.com/in/kaviyaraj-ravichandran?original_referer=https%3A%2F%2Fwww.linkedin.com%2F
+ResearchGate [[invalid URL removed](https://www.researchgate.net/profile/Kaviyaraj-Ravichandran/publications?editMode=1&sorting=recentlyAdded)] 
 <!--
 **Kaviyaraj-Ravichandran/Kaviyaraj-Ravichandran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
