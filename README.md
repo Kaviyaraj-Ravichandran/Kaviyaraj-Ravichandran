@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Kaviyaraj R</h1>
-<h3 align="justify">Kaviyaraj R - Assistant Professor and I'm a researcher specializing in Augmented Reality at the Computational Intelligence department of SRM Institute of Science and Technology, Kattankulathur, Chennai. My research interests focus on: AR applications for education and training AR for industrial design and maintenance AR for user interfaces and interaction I'm proficient in various programming languages and tools relevant to AR development</h3>
+<h3 align="justify">Kaviyaraj R is an Assistant Professor and researcher specializing in Augmented Reality at the Computational Intelligence department of SRM Institute of Science and Technology, Kattankulathur, Chennai. His research focuses on developing innovative AR applications for education, training, industrial design, maintenance, user interfaces, and interaction.
+
+Proficient in various programming languages and tools for AR development, Kaviyaraj has designed and implemented numerous AR-based solutions for home automation, society, education, and e-commerce. With a strong patent portfolio, including 27 filed patents in India and two granted patents (one from Australia, one from India), he has also authored two books and published over 20 research papers in national and international journals and conferences. His expertise extends beyond AR to include Artificial Intelligence, Virtual Reality, Extended Reality, Data Science, and the Internet of Things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaviyaraj-ravichandran&label=Profile%20views&color=0e75b6&style=flat" alt="kaviyaraj-ravichandran" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaviyaraj-ravichandran" alt="kaviyaraj-ravichandran" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="Justify">
 <a href="https://twitter.com/kaviyaraj_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaviyaraj_r" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kaviyaraj-ravichandran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaviyaraj-ravichandran" height="30" width="40" /></a>
 <a href="https://fb.com/kaviyaraj ravichandran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaviyaraj ravichandran" height="30" width="40" /></a>
