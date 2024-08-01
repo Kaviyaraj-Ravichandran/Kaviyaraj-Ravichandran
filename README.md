@@ -11,7 +11,7 @@ I'm proficient in various programming languages and tools relevant to AR develop
 
 Connect with me:
 
-[![LinkedIn](https://i.imgur.com/linkedin-icon.png)]([https://www.linkedin.com/in/your-linkedin-username](https://in.linkedin.com/in/kaviyaraj-ravichandran?original_referer=https%3A%2F%2F))
+[![LinkedIn](https://i.imgur.com/linkedin-icon.png)](https://in.linkedin.com/in/kaviyaraj-ravichandran?original_referer=https%3A%2F%2F))
 
 LinkedIn <a href="(https://in.linkedin.com/in/kaviyaraj-ravichandran?original_referer=https%3A%2F%2Fwww.linkedin.com%2F)" class="fa fa-linkedin"></a>
 ResearchGate:https://www.researchgate.net/profile/Kaviyaraj-Ravichandran/publications?editMode=1&sorting=recentlyAdded
