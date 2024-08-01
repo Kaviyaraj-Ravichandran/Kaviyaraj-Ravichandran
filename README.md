@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaviyaraj R</h1>
-<h3 align="center">Kaviyaraj R - Assistant Professor and I'm a researcher specializing in Augmented Reality at the Computational Intelligence department of SRM Institute of Science and Technology, Kattankulathur, Chennai. My research interests focus on: AR applications for education and training AR for industrial design and maintenance AR for user interfaces and interaction I'm proficient in various programming languages and tools relevant to AR development</h3>
+<h3 align="justify">Kaviyaraj R - Assistant Professor and I'm a researcher specializing in Augmented Reality at the Computational Intelligence department of SRM Institute of Science and Technology, Kattankulathur, Chennai. My research interests focus on: AR applications for education and training AR for industrial design and maintenance AR for user interfaces and interaction I'm proficient in various programming languages and tools relevant to AR development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaviyaraj-ravichandran&label=Profile%20views&color=0e75b6&style=flat" alt="kaviyaraj-ravichandran" /> </p>
 
