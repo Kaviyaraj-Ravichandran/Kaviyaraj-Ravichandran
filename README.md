@@ -10,6 +10,9 @@ AR for user interfaces and interaction
 I'm proficient in various programming languages and tools relevant to AR development.
 
 Connect with me:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.1.2/svgs/solid/code.svg" alt="code" width="32" height="32">
+</p>
 
 [![LinkedIn](https://itcnet.gr/wp-content/uploads/2020/09/Linkedin-logo-on-transparent-Background-PNG-.png) width="200" height="150"](https://in.linkedin.com/in/kaviyaraj-ravichandran?original_referer=https%3A%2F%2F))
 
